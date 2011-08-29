@@ -213,7 +213,6 @@
   <apn carrier="Vodafone Prepay" mcc="234" mnc="15" apn="pp.vodafone.co.uk" user="wap" password="wap" mmsc="http://mms.vodafone.co.uk/servlets/mms" mmsproxy="212.183.137.12" mmsport="8799" type="default,supl,mms" />
   <apn carrier="Vodafone UK Contract WAP" mcc="234" mnc="15" apn="wap.vodafone.co.uk" user="wap" password="wap" server="*" mmsc="http://mms.vodafone.co.uk/servlets/mms" mmsproxy="212.183.137.012" mmsport="8799" type="default,supl,mms" />
   <apn carrier="3 UK" mcc="234" mnc="20" apn="three.co.uk" mmsc="http://mms.um.three.co.uk:10021/mmsc" mmsproxy="mms.three.co.uk" mmsport="8799" type="default,supl,mms" />
-  <apn carrier="3 UK" mcc="234" mnc="20" apn="three.co.uk" mmsc="http://mms.um.three.co.uk:10021/mmsc" mmsproxy="mms.three.co.uk" mmsport="8799" type="default,supl,mms" />
   <apn carrier="T-Mobile UK" mcc="234" mnc="30" apn="general.t-mobile.uk" user="t-mobile" password="tm" server="*" mmsc="http://mmsc.t-mobile.co.uk:8002" mmsproxy="149.254.201.135" mmsport="8080" type="default,supl,mms" />
   <apn carrier="Picture Message" mcc="234" mnc="30" apn="general.t-mobile.uk" user="user" password="wap" mmsc="http://mmsc.t-mobile.co.uk:8002" mmsproxy="149.254.201.135" mmsport="8080" type="mms" />
   <apn carrier="Virgin UK" mcc="234" mnc="30" apn="goto.virginmobile.uk" user="user" type="default,supl" />
@@ -426,7 +425,6 @@
   <apn carrier="Vodafone DE" mcc="262" mnc="02" apn="web.vodafone.de" user="none" password="none" type="default,supl" />
   <apn carrier="blau DE" mcc="262" mnc="05" apn="internet.eplus.de" user="blau" password="blau" type="default,supl" />
   <apn carrier="blau DE MMS" mcc="262" mnc="05" apn="mms.eplus.de" user="mms" password="eplus" mmsc="http://mms/eplus" mmsproxy="212.23.97.153" mmsport="5080" type="mms" />
-  <apn carrier="E-Plus WAP GPRS" mcc="262" mnc="03" apn="wap.eplus.de" proxy="212.23.97.9" port="8080" type="default,supl,mms" />
   <apn carrier="Vodafone DE-MMS" mcc="262" mnc="04" apn="event.vodafone.de" mmsc="http://139.7.24.1/servlets/mms" mmsproxy="139.7.29.17" mmsport="80" type="mms" />
   <apn carrier="Vodafone DE" mcc="262" mnc="04" apn="web.vodafone.de" type="default,supl" />
   <apn carrier="E-Plus Web GPRS" mcc="262" mnc="03" apn="internet.eplus.de" user="eplus" password="internet" type="default,supl" />
