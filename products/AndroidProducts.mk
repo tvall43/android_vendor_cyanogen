@@ -1,4 +1,3 @@
-PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_thunderc.mk \
     $(LOCAL_DIR)/cyanogen_thunderc_cricket.mk \
     $(LOCAL_DIR)/cyanogen_thunderc_metropcs.mk \
