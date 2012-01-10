@@ -1,3 +1,5 @@
-SUB_MODEL := LS670
+# Optimus M - MetroPCS
+
+SUB_MODEL := MS690
 
 $(call inherit-product, vendor/cyanogen/products/cyanogen_thunderc.mk)

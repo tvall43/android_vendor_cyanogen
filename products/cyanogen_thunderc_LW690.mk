@@ -1,3 +1,4 @@
-SUB_MODEL := VS660
+# Optimus C - Cricket
+SUB_MODEL := LW690
 
 $(call inherit-product, vendor/cyanogen/products/cyanogen_thunderc.mk)

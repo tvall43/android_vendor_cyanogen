@@ -1,3 +1,5 @@
-SUB_MODEL := MS690
+# Optimus S - Sprint PCS
+
+SUB_MODEL := LS670
 
 $(call inherit-product, vendor/cyanogen/products/cyanogen_thunderc.mk)
