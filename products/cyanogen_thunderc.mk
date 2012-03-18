@@ -4,8 +4,9 @@ PRODUCT_COPY_FILES := \
     vendor/cyanogen/prebuilt/mdpi/media/bootanimation.zip:system/media/bootanimation.zip \
     $(PRODUCT_COPY_FILES)
 
-# Inherit device configuration for the thunderc.
-$(call inherit-product, device/lge/thunderc_common/thunderc.mk)
+# Inherit device configuration for the thunderc, which will in turn call the
+# necessary common code (device/lge/thunderc_common/thunderc_common.mk).
+$(call inherit-product, device/lge/thunderc_$(SUB_MODEL)/thunderc_$(SUB_MODEL).mk)
 
 # Inherit some common cyanogenmod stuff.
 $(call inherit-product, vendor/cyanogen/products/common_full.mk)
